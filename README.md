@@ -1,1 +1,3 @@
-# python_challenge
+# The-Python-Challenge
+
+http://www.pythonchallenge.com/
